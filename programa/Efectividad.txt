@@ -1,0 +1,8 @@
+Puntuar de acuerdo al nivel de efectividad [10];10
+Puntuar de acuerdo al nivel de efectividad [9];9
+Puntuar de acuerdo al nivel de efectividad [8];8
+Puntuar de acuerdo al nivel de efectividad [7];7
+Puntuar de acuerdo al nivel de efectividad [6];6
+Puntuar de acuerdo al nivel de efectividad [5];5
+Puntuar de acuerdo al nivel de efectividad [4];4
+Puntuar de acuerdo al nivel de efectividad [2];2
