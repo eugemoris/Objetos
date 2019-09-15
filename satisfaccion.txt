@@ -1,0 +1,8 @@
+Puntuar de acuerdo al nivel de satisfacción [10];10
+Puntuar de acuerdo al nivel de satisfacción [9];9
+Puntuar de acuerdo al nivel de satisfacción [8];8
+Puntuar de acuerdo al nivel de satisfacción [7];7
+Puntuar de acuerdo al nivel de satisfacción [6];6
+Puntuar de acuerdo al nivel de satisfacción [5];5
+Puntuar de acuerdo al nivel de satisfacción [4];4
+Puntuar de acuerdo al nivel de satisfacción [2];2

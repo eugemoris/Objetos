@@ -1,0 +1,23 @@
+Dirección de correo electrónico
+Cátedra
+Año
+Tù Nombre
+Tù Apellido
+Genero
+Fecha de nacimiento
+¿ Como crees que trabajas mejor ?
+¿Como eliges a tus compañeros de grupo?
+¿Como prefieres la colaboración?
+¿Crees que la dificultad de un trabajo aumenta si hay que realizarlo en grupo?
+¿Crees que la dificultad de un trabajo aumenta si hay que realizarlo mediado por computadora?
+¿Conocías la plataforma (Google Drive, Google Docs, Hangout)?
+¿Habías utilizado el entorno de Google para trabajos de estas caracteristicas?
+¿El sistema fue fácil de usar?
+¿Te sentiste cómodo trabajando en el entorno de Google?
+¿Crees que el entorno mejoró la colaboración?
+¿Crees que el entorno facilitó la colaboración?
+¿Valora cuánto aprendiste de la temática desarrollada a través del uso del entorno?
+¿Agregarías nuevas herramientas o alternativas?
+¿ Qué/Cuales herramienta/s agregarías ?
+¿ Cual es tu opinión respecto a la metodología que se propuso en estos trabajos?
+Observación, sugerencia, crítica constructiva
